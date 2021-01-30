@@ -30,7 +30,7 @@
             android:layout_alignParentLeft="true"
             android:layout_below="@+id/textViewFormName"
             android:layout_marginTop="10dp"
-            android:text="firstname"
+            android:text="First Name"
             android:textColor="#FFFFFF" />
 
         <requestFocus />
@@ -44,7 +44,7 @@
             android:layout_marginTop="5dp"
             android:background="@drawable/roundedtextview"
             android:ems="10"
-            android:hint="firstname"
+            android:hint="add first name"
             android:inputType="textPersonName"
             android:paddingLeft="15dp" />
 
@@ -55,7 +55,7 @@
             android:layout_alignLeft="@+id/editTextFirstName"
             android:layout_below="@+id/editTextFirstName"
             android:layout_marginTop="15dp"
-            android:text="lastname"
+            android:text="Last Name"
             android:textColor="#FFFFFF" />
 
         <EditText
@@ -67,7 +67,7 @@
             android:layout_marginTop="5dp"
             android:background="@drawable/roundedtextview"
             android:ems="10"
-            android:hint="lastname"
+            android:hint="add last name"
             android:inputType="textPersonName"
             android:paddingLeft="15dp" />
 
@@ -89,7 +89,7 @@
             android:layout_marginTop="5dp"
             android:background="@drawable/roundedtextview"
             android:ems="10"
-            android:hint="phone"
+            android:hint="add phone number"
             android:inputType="phone"
             android:paddingLeft="15dp" />
 
@@ -111,7 +111,7 @@
             android:layout_alignParentRight="true"
             android:layout_marginRight="18dp"
             android:background="@drawable/roundedbutton"
-            android:text="cancle"
+            android:text="cancel"
             android:textColor="#ffffff" />
 
         <TextView

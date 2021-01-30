@@ -189,7 +189,7 @@
             android:layout_alignBaseline="@+id/textViewEmail"
             android:layout_alignBottom="@+id/textViewEmail"
             android:layout_alignRight="@+id/textViewPassword"
-            android:text="Mobile Number"
+            android:text="Contact"
             android:textColor="#FFFFFF" />
 
         <TextView
